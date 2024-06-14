@@ -1,1 +1,1 @@
-# Kpibara-Jam
+# Kpibara-Jam public repository
